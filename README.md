@@ -1,4 +1,4 @@
-# Recapture
+# UltraHardCores
 Mindustry plugin that makes all cores indestructible.
 
 * Don't use it unless there are other means of winning/loosing.
