@@ -13,7 +13,7 @@ public class UltraHardCores extends Plugin {
                     core.health = Float.POSITIVE_INFINITY;
                 }
             }
-        }, 0, 0.1f);
+        }, 0, 1f);
     }
 
 }
